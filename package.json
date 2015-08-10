@@ -1,0 +1,23 @@
+{
+  "name": "ar-drone-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benhalverson/ar-drone-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhalverson/ar-drone-node/issues"
+  },
+  "homepage": "https://github.com/benhalverson/ar-drone-node",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "fluent-ffmpeg": "^2.0.1"
+  }
+}
